@@ -24,6 +24,10 @@ body {
 }
 
 /* em  */
+.col-em {
+	font-size: 10px;
+}
+
 .col-em h2 {
 	font-size: 2em;
 }

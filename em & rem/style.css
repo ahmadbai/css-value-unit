@@ -1,5 +1,5 @@
 html {
-	font-size: 10px;
+/*	font-size: 10px;*/
 }
 
 body {
@@ -45,7 +45,7 @@ body {
 }*/
 
 /* rem  */
-.col-rem {
+/*.col-rem {
 	font-size: 10px;
 }
 
@@ -55,4 +55,15 @@ body {
 
 .col-rem p {
 	font-size: 1.5rem;
+}*/
+
+.btn {
+	display: inline-block;
+	background: #333;
+	font-weight: 700;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+
+	padding: 1em 3em;
 }

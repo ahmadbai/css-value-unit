@@ -24,7 +24,7 @@ body {
 }
 
 /* em  */
-.typography {
+/*.typography {
 	font-size: 10px;
 }
 
@@ -38,4 +38,17 @@ body {
 
 .col-em p {
 	font-size: 1.5em;
+}*/
+
+/* rem  */
+.col-rem {
+	font-size: 10px;
+}
+
+.col-rem h2 {
+	font-size: 2rem;
+}
+
+.col-rem p {
+	font-size: 1.5rem;
 }

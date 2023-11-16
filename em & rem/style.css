@@ -24,8 +24,12 @@ body {
 }
 
 /* em  */
-.col-em {
+.typography {
 	font-size: 10px;
+}
+
+.col-em {
+	font-size: 2em;
 }
 
 .col-em h2 {
